@@ -1,6 +1,6 @@
  {
     "/api/*": {
-      "target": "https://sftst.herokuapp.com/",
+      "target": "https://tghja.herokuapp.com/",
       "secure": false,
       "logLevel":"debug"
     }
