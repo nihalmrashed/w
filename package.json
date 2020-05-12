@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nihalmrashed/SFT.git"
+    "url": "git+https://github.com/nihalmrashed/w.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nihalmrashed/SFT"
+    "url": "https://github.com/nihalmrashed/w"
   },
-  "homepage": "https://github.com/nihalmrashed/SFT/blob/master/README.md",
+  "homepage": "https://github.com/nihalmrashed/w/blob/master/README.md",
   "dependencies": {
     "config": "^3.0.1",
     "cors": "^2.8.5",
