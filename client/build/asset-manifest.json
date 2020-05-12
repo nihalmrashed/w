@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08fa869a.chunk.css",
+    "main.js": "/static/js/main.dbd7832c.chunk.js",
+    "main.js.map": "/static/js/main.dbd7832c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfae3202.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfae3202.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.a1ed33f4.chunk.js": "/static/js/2.a1ed33f4.chunk.js",
+    "static/js/2.a1ed33f4.chunk.js.map": "/static/js/2.a1ed33f4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fcad01e434feddc5c7db9282125c3fc1.js": "/precache-manifest.fcad01e434feddc5c7db9282125c3fc1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.08fa869a.chunk.css.map": "/static/css/main.08fa869a.chunk.css.map",
+    "static/js/2.a1ed33f4.chunk.js.LICENSE.txt": "/static/js/2.a1ed33f4.chunk.js.LICENSE.txt",
+    "static/media/mrs_logo.png": "/static/media/mrs_logo.38023117.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfae3202.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.a1ed33f4.chunk.js",
+    "static/css/main.08fa869a.chunk.css",
+    "static/js/main.dbd7832c.chunk.js"
+  ]
+}

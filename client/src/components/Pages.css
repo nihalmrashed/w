@@ -1,0 +1,56 @@
+.img-adjusted {
+  max-height: 200px;
+  min-height: 150px;
+  object-fit: cover;
+}
+
+.gap {
+  margin-top: 20px;
+}
+
+.card-deck {
+  flex-direction: "row";
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flex: 1;
+  border: "1px solid black";
+  border-radius: "10px";
+}
+
+.login-form {
+  border: 1px dotted;
+  padding: 10px;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+  height:42vh;  
+}
+.signin-form {
+  border: 1px dotted;
+  padding: 10px;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  height:55vh;  
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sold-out-image{
+  opacity: 0.3;
+}
+
+.sold-out-notification{
+color:rgb(194, 171, 171);
+}
+
+.p{
+    margin: 0px 0px 70px 0px;
+  
+}
